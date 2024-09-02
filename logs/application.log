@@ -1,0 +1,23 @@
+2024-09-02 19:55:41,205 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2024-09-02 19:55:42,276 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2024-09-02 19:55:42,551 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2024-09-02 19:55:42,733 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2024-09-02 19:55:43,855 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2024-09-02 19:55:43,864 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2024-09-02 19:58:53,396 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2024-09-02 19:58:54,557 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2024-09-02 19:58:54,844 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2024-09-02 19:58:55,020 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2024-09-02 19:58:56,260 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2024-09-02 19:58:56,269 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2024-09-02 20:04:12,717 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2024-09-02 20:04:13,939 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2024-09-02 20:04:14,201 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2024-09-02 20:04:14,351 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2024-09-02 20:04:25,229 +0530 [main] INFO  (TC_LoginTest_001.java:40) - TestCase Failed
+2024-09-02 20:09:37,786 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2024-09-02 20:09:38,819 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2024-09-02 20:09:39,088 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2024-09-02 20:09:39,247 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2024-09-02 20:09:40,249 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2024-09-02 20:09:40,260 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
