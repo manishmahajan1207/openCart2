@@ -21,3 +21,454 @@
 2024-09-02 20:09:39,247 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
 2024-09-02 20:09:40,249 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
 2024-09-02 20:09:40,260 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2024-09-03 17:43:41,514 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:43:44,010 +0530 [main] INFO  (TC_LoginDDT_002.java:31) - TestCase Passed
+2024-09-03 17:43:44,019 +0530 [main] INFO  (TC_LoginDDT_002.java:39) - *******Login DDT_test Finished**********
+2024-09-03 17:43:44,039 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:43:54,238 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:44:04,485 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:44:14,738 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:44:25,021 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:44:35,273 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:47:55,331 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:47:57,925 +0530 [main] INFO  (TC_LoginDDT_002.java:31) - TestCase Passed
+2024-09-03 17:47:58,831 +0530 [main] INFO  (TC_LoginDDT_002.java:40) - *******Login DDT_test Finished**********
+2024-09-03 17:47:58,864 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:48:01,546 +0530 [main] INFO  (TC_LoginDDT_002.java:31) - TestCase Passed
+2024-09-03 17:48:02,513 +0530 [main] INFO  (TC_LoginDDT_002.java:40) - *******Login DDT_test Finished**********
+2024-09-03 17:48:02,548 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:48:05,884 +0530 [main] INFO  (TC_LoginDDT_002.java:31) - TestCase Passed
+2024-09-03 17:48:06,795 +0530 [main] INFO  (TC_LoginDDT_002.java:40) - *******Login DDT_test Finished**********
+2024-09-03 17:48:06,818 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:48:19,262 +0530 [main] INFO  (TC_LoginDDT_002.java:36) - TestCase Failed
+2024-09-03 17:48:19,325 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:48:22,392 +0530 [main] INFO  (TC_LoginDDT_002.java:31) - TestCase Passed
+2024-09-03 17:48:23,244 +0530 [main] INFO  (TC_LoginDDT_002.java:40) - *******Login DDT_test Finished**********
+2024-09-03 17:48:23,273 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:48:35,464 +0530 [main] INFO  (TC_LoginDDT_002.java:36) - TestCase Failed
+2024-09-03 17:48:35,517 +0530 [main] INFO  (TC_LoginDDT_002.java:17) - *******Login DDT_test started**********
+2024-09-03 17:48:39,048 +0530 [main] INFO  (TC_LoginDDT_002.java:31) - TestCase Passed
+2024-09-03 17:48:40,757 +0530 [main] INFO  (TC_LoginDDT_002.java:40) - *******Login DDT_test Finished**********
+2024-09-03 18:08:25,150 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:08:27,794 +0530 [main] INFO  (TC_LoginDDT_002.java:43) - *******Login DDT_test Finished**********
+2024-09-03 18:08:27,905 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:08:38,199 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:08:48,521 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:08:58,978 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:09:09,273 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:09:19,585 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:11:59,336 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:12:01,914 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:12:12,220 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:12:26,827 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:12:26,862 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:12:26,884 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:12:26,922 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:13:45,965 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:13:49,313 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:13:52,002 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:13:52,045 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:13:55,399 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:13:55,421 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:14:07,626 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:14:07,651 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:14:11,068 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:14:11,084 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:14:23,664 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:14:23,679 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:23:39,890 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:23:43,054 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:23:43,070 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:23:46,382 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:23:46,409 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:23:51,389 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:23:51,408 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:24:03,476 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:24:03,502 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:24:08,439 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:24:08,458 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:24:21,065 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2024-09-03 18:24:21,088 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - *******Login DDT_test started**********
+2024-09-03 18:24:24,501 +0530 [main] INFO  (TC_LoginDDT_002.java:70) - *******Login DDT_test Finished**********
+2025-01-10 17:25:04,627 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-01-10 17:25:06,052 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-01-10 17:25:06,339 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-01-10 17:25:06,509 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-01-10 17:25:07,779 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-01-10 17:25:07,794 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-01-10 17:28:03,956 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-01-10 17:28:05,414 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-01-10 17:28:05,745 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-01-10 17:28:05,905 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-01-10 17:28:07,081 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-01-10 17:28:07,094 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-01-10 17:29:14,504 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-01-10 17:29:15,985 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-01-10 17:29:16,314 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-01-10 17:29:16,481 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-01-10 17:29:18,093 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-01-10 17:29:18,104 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-01-10 17:41:16,217 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-01-10 17:41:17,865 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-01-10 17:41:18,188 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-01-10 17:41:18,351 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-01-10 17:41:19,602 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-01-10 17:41:19,619 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-01-10 17:41:25,379 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-01-10 17:41:27,387 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-01-10 17:41:30,001 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-01-10 17:41:30,098 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-01-10 17:41:30,100 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-01-10 18:52:21,447 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-01-10 18:52:23,002 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-01-10 18:52:25,773 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-01-10 18:52:25,864 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-01-10 18:52:25,878 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-01-10 18:56:52,079 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-01-10 18:56:53,731 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-01-10 18:56:54,050 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-01-10 18:56:54,248 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-01-10 18:56:55,389 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-01-10 18:56:55,396 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-01-10 19:00:21,738 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-01-10 19:00:23,313 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-01-10 19:00:23,617 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-01-10 19:00:23,796 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-01-10 19:00:25,169 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-01-10 19:00:25,179 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-01-10 19:00:30,071 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-01-10 19:00:32,351 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-01-10 19:00:34,996 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-01-10 19:00:35,126 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-01-10 19:00:35,127 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-16 18:40:45,843 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 18:40:47,462 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-16 18:40:47,725 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-16 18:40:47,946 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-16 18:40:49,992 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-16 18:40:50,002 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-16 18:40:54,545 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 18:40:56,470 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-16 18:40:59,294 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-16 18:40:59,384 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-16 18:40:59,386 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-16 18:43:41,462 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 18:43:44,601 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 18:48:07,188 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 18:48:09,761 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 18:50:00,037 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 18:50:03,166 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 19:02:15,982 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 19:02:18,820 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 19:15:42,582 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 19:15:44,243 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-16 19:15:44,520 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-16 19:15:44,688 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-16 19:15:46,178 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-16 19:15:46,186 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-16 19:15:51,255 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 19:15:53,068 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-16 19:15:55,991 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-16 19:15:56,088 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-16 19:15:56,092 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-16 19:17:07,853 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 19:17:09,194 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-16 19:17:09,491 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-16 19:17:09,679 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-16 19:17:11,287 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-16 19:17:11,294 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-16 19:17:16,886 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 19:17:18,741 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-16 19:17:21,639 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-16 19:17:21,734 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-16 19:17:21,735 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-16 19:17:42,802 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 19:17:44,304 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-16 19:17:44,599 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-16 19:17:44,784 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-16 19:17:46,023 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-16 19:17:46,032 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-16 19:17:50,489 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 19:17:52,375 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-16 19:17:55,270 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-16 19:17:55,370 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-16 19:17:55,371 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-16 19:18:52,452 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 19:18:53,977 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-16 19:18:54,362 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-16 19:18:54,528 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-16 19:18:55,710 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-16 19:18:55,725 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-16 19:19:00,096 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 19:19:01,162 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-16 19:19:04,105 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-16 19:19:04,203 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-16 19:19:04,204 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-16 19:19:48,440 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 19:19:50,051 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-16 19:19:50,453 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-16 19:19:50,729 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-16 19:19:52,080 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-16 19:19:52,090 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-16 19:20:00,403 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 19:20:01,953 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-16 19:20:05,182 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-16 19:20:05,313 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-16 19:20:05,314 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-16 19:26:44,532 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-16 19:26:45,979 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-16 19:26:46,316 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-16 19:26:46,500 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-16 19:26:47,731 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-16 19:26:47,744 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-16 19:26:52,319 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-16 19:26:54,436 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-16 19:26:57,281 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-16 19:26:57,399 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-16 19:26:57,400 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-17 13:34:21,920 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 13:34:23,489 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 13:34:23,812 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 13:34:24,222 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 13:34:24,719 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 13:34:26,887 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 13:34:26,901 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 13:34:27,000 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 13:34:30,896 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-17 13:34:31,066 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-17 13:34:31,075 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-17 13:34:36,520 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 13:34:38,917 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 13:34:42,216 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-17 13:34:42,350 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-17 13:34:42,351 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-17 13:36:32,721 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 13:36:34,020 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 13:36:34,298 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 13:36:34,489 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 13:36:35,787 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 13:36:35,798 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 13:36:40,263 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 13:36:42,516 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 13:36:45,091 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-17 13:36:45,201 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-17 13:36:45,202 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-17 13:37:52,900 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 13:37:54,984 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 13:37:57,746 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-17 13:37:57,894 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-17 13:37:57,901 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-17 14:04:16,741 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 14:04:18,300 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 14:04:21,143 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-17 14:04:21,270 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-17 14:04:21,276 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-17 14:04:27,366 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 14:04:28,406 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 14:04:28,729 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 14:04:28,910 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 14:04:29,993 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 14:04:29,994 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 14:04:38,883 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 14:04:40,051 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 14:04:43,325 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-17 14:04:43,421 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-17 14:04:43,422 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-17 14:04:49,465 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 14:04:50,238 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 14:04:50,532 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 14:04:50,698 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 14:04:51,879 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 14:04:51,880 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 14:05:05,534 +0530 [main] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 14:05:07,030 +0530 [main] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 14:05:09,172 +0530 [main] INFO  (TC_RegistratinTest_003.java:36) - *****Validation Started*****
+2025-02-17 14:05:09,285 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - Testcase Passed
+2025-02-17 14:05:09,287 +0530 [main] INFO  (TC_RegistratinTest_003.java:49) - *******Registration TC finished*********
+2025-02-17 14:05:19,297 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 14:05:20,579 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 14:05:20,792 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 14:05:20,868 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 14:05:22,037 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 14:05:22,038 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 14:12:15,154 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 14:12:15,240 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 14:12:22,402 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 14:12:24,762 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 14:12:40,597 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 14:12:40,732 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 14:12:47,432 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 14:12:49,054 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 14:12:49,361 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 14:19:30,977 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 14:19:30,977 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 14:20:00,707 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 14:20:03,537 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 15:06:51,344 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 15:06:51,347 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 15:07:17,102 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 15:07:20,094 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 15:07:32,669 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 15:08:50,488 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 15:08:53,725 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:21) - *******Enter Registration details******
+2025-02-17 15:09:06,092 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 15:09:14,893 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 15:09:19,567 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 15:26:18,552 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 15:26:18,560 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 15:29:00,359 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 15:29:02,771 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:15) - ***Registration Test Case Started*****
+2025-02-17 15:44:05,284 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 15:44:05,629 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 15:49:13,824 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 15:49:15,272 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 15:49:15,563 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 15:49:15,721 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 15:49:17,223 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 15:49:17,232 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 15:49:22,407 +0530 [main] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 15:49:24,394 +0530 [main] INFO  (TC_RegistratinTest_003.java:25) - *******Enter Registration details******
+2025-02-17 15:49:27,296 +0530 [main] INFO  (TC_RegistratinTest_003.java:40) - *****Validation Started*****
+2025-02-17 15:49:27,401 +0530 [main] INFO  (TC_RegistratinTest_003.java:44) - Testcase Passed
+2025-02-17 15:49:27,402 +0530 [main] INFO  (TC_RegistratinTest_003.java:53) - *******Registration TC finished*********
+2025-02-17 15:58:20,291 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 15:58:22,191 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 16:30:42,931 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 16:30:42,960 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 16:36:14,169 +0530 [main] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 16:36:15,995 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 16:36:16,251 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 16:36:16,416 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 16:36:17,626 +0530 [main] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 16:36:17,643 +0530 [main] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 16:36:22,428 +0530 [main] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 16:36:24,334 +0530 [main] INFO  (TC_RegistratinTest_003.java:26) - *******Enter Registration details******
+2025-02-17 16:36:26,936 +0530 [main] INFO  (TC_RegistratinTest_003.java:41) - *****Validation Started*****
+2025-02-17 16:36:27,040 +0530 [main] INFO  (TC_RegistratinTest_003.java:45) - Testcase Passed
+2025-02-17 16:36:27,041 +0530 [main] INFO  (TC_RegistratinTest_003.java:54) - *******Registration TC finished*********
+2025-02-17 16:37:16,075 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 16:37:19,692 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:26) - *******Enter Registration details******
+2025-02-17 16:37:20,465 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:19) - ***Registration Test Case Started*****
+2025-02-17 16:49:37,444 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 16:49:37,446 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 17:01:00,796 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 17:01:02,539 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 17:01:16,317 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 17:25:16,087 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 17:25:18,808 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 17:36:41,445 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 17:36:41,450 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:03:53,986 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:03:53,986 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:08:28,296 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:08:30,865 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:08:31,186 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 18:08:42,476 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 18:08:42,722 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 18:08:42,896 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 18:08:44,014 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 18:08:44,021 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 18:10:41,146 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:10:41,149 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:11:53,750 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:11:55,479 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:14:30,563 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:14:32,206 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:27:47,575 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:27:47,575 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 18:37:34,833 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 18:37:34,836 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 18:39:41,629 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 18:39:43,160 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 19:19:50,348 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 19:19:51,577 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 19:19:52,542 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:28) - Enter Username
+2025-02-17 19:19:52,683 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:28) - Enter Username
+2025-02-17 19:19:52,915 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:30) - Enter Password
+2025-02-17 19:19:52,977 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:30) - Enter Password
+2025-02-17 19:19:53,146 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:32) - Enter Login Button
+2025-02-17 19:19:53,415 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:32) - Enter Login Button
+2025-02-17 19:19:54,377 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:39) - TestCase Passed
+2025-02-17 19:19:54,380 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:47) - *******Login test Finished**********
+2025-02-17 19:19:54,424 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:39) - TestCase Passed
+2025-02-17 19:19:54,424 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:47) - *******Login test Finished**********
+2025-02-17 19:33:07,450 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 19:33:08,825 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:28) - Enter Username
+2025-02-17 19:33:09,156 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 19:33:09,252 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:30) - Enter Password
+2025-02-17 19:33:09,543 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:32) - Enter Login Button
+2025-02-17 19:33:10,316 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:28) - Enter Username
+2025-02-17 19:33:10,527 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:39) - TestCase Passed
+2025-02-17 19:33:10,532 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:47) - *******Login test Finished**********
+2025-02-17 19:33:10,652 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:30) - Enter Password
+2025-02-17 19:33:10,786 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:32) - Enter Login Button
+2025-02-17 19:33:11,769 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:39) - TestCase Passed
+2025-02-17 19:33:11,770 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:47) - *******Login test Finished**********
+2025-02-17 19:58:02,547 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 19:58:03,993 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:22) - *******Login test started**********
+2025-02-17 19:58:05,237 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:28) - Enter Username
+2025-02-17 19:58:05,422 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:28) - Enter Username
+2025-02-17 19:58:05,873 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:30) - Enter Password
+2025-02-17 19:58:05,890 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:30) - Enter Password
+2025-02-17 19:58:06,174 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:32) - Enter Login Button
+2025-02-17 19:58:06,232 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:32) - Enter Login Button
+2025-02-17 19:58:08,018 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:39) - TestCase Passed
+2025-02-17 19:58:08,028 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:47) - *******Login test Finished**********
+2025-02-17 19:58:08,032 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:39) - TestCase Passed
+2025-02-17 19:58:08,033 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:47) - *******Login test Finished**********
+2025-02-17 20:06:38,708 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 20:06:41,045 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 20:06:43,464 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 20:06:44,571 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 20:06:45,250 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 20:06:45,654 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 20:06:46,373 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 20:06:46,866 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:18) - ***Registration Test Case Started*****
+2025-02-17 20:06:47,212 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 20:06:47,772 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 20:06:47,786 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 20:06:49,007 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 20:06:49,009 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 20:06:49,204 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:25) - *******Enter Registration details******
+2025-02-17 20:06:51,362 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:40) - *****Validation Started*****
+2025-02-17 20:06:51,431 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:44) - Testcase Passed
+2025-02-17 20:06:51,432 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:53) - *******Registration TC finished*********
+2025-02-17 20:07:02,614 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 20:07:03,717 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 20:07:03,913 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 20:07:04,001 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 20:07:05,166 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 20:07:05,167 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 20:09:41,297 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:18) - ***Registration Test Case Started*****
+2025-02-17 20:09:46,851 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:18) - ***Registration Test Case Started*****
+2025-02-17 20:09:48,762 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:25) - *******Enter Registration details******
+2025-02-17 20:09:49,233 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:25) - *******Enter Registration details******
+2025-02-17 20:09:53,271 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:40) - *****Validation Started*****
+2025-02-17 20:09:53,399 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:44) - Testcase Passed
+2025-02-17 20:09:53,407 +0530 [TestNG-tests-2] INFO  (TC_RegistratinTest_003.java:53) - *******Registration TC finished*********
+2025-02-17 20:09:53,440 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:18) - ***Registration Test Case Started*****
+2025-02-17 20:09:55,344 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:25) - *******Enter Registration details******
+2025-02-17 20:09:56,461 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:40) - *****Validation Started*****
+2025-02-17 20:09:56,595 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:44) - Testcase Passed
+2025-02-17 20:09:56,595 +0530 [TestNG-tests-1] INFO  (TC_RegistratinTest_003.java:53) - *******Registration TC finished*********
+2025-02-17 20:09:57,600 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:40) - *****Validation Started*****
+2025-02-17 20:09:57,666 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:44) - Testcase Passed
+2025-02-17 20:09:57,667 +0530 [TestNG-tests-3] INFO  (TC_RegistratinTest_003.java:53) - *******Registration TC finished*********
+2025-02-17 20:10:03,544 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 20:10:08,901 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 20:10:09,639 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 20:10:10,554 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 20:10:10,788 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 20:10:11,247 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 20:10:11,391 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 20:10:11,618 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 20:10:12,938 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 20:10:12,939 +0530 [TestNG-tests-1] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 20:10:12,957 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 20:10:12,958 +0530 [TestNG-tests-2] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********
+2025-02-17 20:10:17,708 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:19) - *******Login test started**********
+2025-02-17 20:10:18,672 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:25) - Enter Username
+2025-02-17 20:10:18,993 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:27) - Enter Password
+2025-02-17 20:10:19,111 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:29) - Enter Login Button
+2025-02-17 20:10:20,288 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:36) - TestCase Passed
+2025-02-17 20:10:20,289 +0530 [TestNG-tests-3] INFO  (TC_LoginTest_001.java:44) - *******Login test Finished**********

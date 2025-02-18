@@ -1,13 +1,20 @@
 package com.openCart2.pageObjects;
 
+import java.time.Duration;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HomePage extends BasePage{
+	
+	WebDriverWait wait;
 
-	public HomePage(WebDriver ldriver) {
-		super(ldriver);
+	public HomePage(WebDriver driver) {
+		super(driver);
+		wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		
 	}
 	
@@ -22,8 +29,8 @@ public class HomePage extends BasePage{
 	
 	
 	public void myAccountClick() {
-		
-		myAccount.click();
+		wait.until(ExpectedConditions.elementToBeClickable(myAccount)).click();
+		//myAccount.click();
 	}
 	
 	public void registerUser() {

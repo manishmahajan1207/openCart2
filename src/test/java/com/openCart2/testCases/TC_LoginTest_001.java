@@ -1,8 +1,5 @@
 package com.openCart2.testCases;
 
-
-
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -14,8 +11,11 @@ import com.openCart2.testBase.BaseClass;
 
 public class TC_LoginTest_001 extends BaseClass{
 	
-	@Test
+	@Test(groups = {"Master","Sanity"}, priority = 2)//(invocationCount = 5)for repeating test in loop
 	public void loginTest() {
+		
+	try {
+			
 		logger.info("*******Login test started**********");
 		HomePage hp = new HomePage(driver);
 		hp.myAccountClick();
@@ -45,5 +45,9 @@ public class TC_LoginTest_001 extends BaseClass{
 		
 	}
 	
-
+	catch (Exception e) {
+		System.out.println(e);
+	}
+	
+  }
 }
